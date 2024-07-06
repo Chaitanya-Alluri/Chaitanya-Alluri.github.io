@@ -1,4 +1,29 @@
-baseURL = 'https://bytesbyck.com'
-languageCode = 'en-us'
-title = 'My New Blog Site'
-theme = 'PaperMod'
+# Sample Configuration File for My New Blog Site
+
+[site]
+baseURL = "https://bytesbyck.com"
+languageCode = "en-us"
+title = "My New Blog Site"
+theme = "PaperMod"
+emoji = "📝"  # Emoji representing the blog
+
+# Social Media Links
+[social]
+twitter = "https://twitter.com/bytesbyck"
+github = "https://github.com/bytesbyck"
+linkedin = "https://linkedin.com/in/bytesbyck"
+
+# Contact Information
+[contact]
+email = "contact@bytesbyck.com"
+phone = "+1234567890"
+
+# Authors
+[authors]
+main_author = "Chaitanya Kumar"
+
+# Emojis
+[emojis]
+writing_hand = "✍️"
+globe_with_meridians = "🌐"
+computer = "💻"
