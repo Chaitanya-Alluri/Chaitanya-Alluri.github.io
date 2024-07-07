@@ -5,6 +5,32 @@ theme = "PaperMod"
 enableRobotsTXT = true
 Description = "The place on the web where I put blog posts with my knowledge ."
 
+[languages.en]
+  languageName = "English"
+  weight = 1
+
+  [languages.en.taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+  [[languages.en.menu.main]]
+    name = "Archive"
+    url = "archives"
+    weight = 5
+
+  [[languages.en.menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 10
+
+  [[languages.en.menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 10
+
+ 
+
 [params]
   author = "chaitanya"
   defaultTheme = "auto"
