@@ -1,4 +1,31 @@
-baseURL = 'https://bytesbyck.com'
-languageCode = 'en-us'
-title = 'My New Blog Site'
-theme = 'PaperMod'
+baseURL = "https://bytesbyck.com"
+languageCode = "en-us"
+title = "Chaitanya's Blog"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+
+  [params.archive]
+    title = "Archive"
+    layout = "archives"
+    url = "/archives/"
+    summary = "archives"
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog..."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/chaitanya-kumar-alluri-5a70203b/"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # necessary for search
+
+

@@ -4,9 +4,6 @@ date = 2024-07-06T19:56:32+05:30
 draft = false
 +++
 
-
-
-
 # My First Blog Post: 📝
 
 ## Introduction
