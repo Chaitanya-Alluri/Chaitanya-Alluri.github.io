@@ -3,13 +3,16 @@ languageCode = "en-us"
 title = "Chaitanya's Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
+Description = "The place on the web where I put blog posts with my knowledge ."
 
 [params]
+  author = "chaitanya"
   defaultTheme = "auto"
-  ShowShareButtons = true
-  ShowBreadCrumbs = true
-  ShowPostNavLinks = true
-  ShowCodeCopyButtons = true
+  ShowShareButtons = "true"
+  ShowBreadCrumbs = "true"
+  ShowPostNavLinks = "true"
+  ShowCodeCopyButtons = "true"
+  ShowReadingTime = "true"
 
   [params.archive]
     title = "Archive"
@@ -18,7 +21,7 @@ enableRobotsTXT = true
     summary = "archives"
 
   [params.homeInfoParams]
-    Title = "Hi there 👋"
+    Title = "Hi there... 👋"
     Content = "Welcome to my blog..."
 
   [[params.socialIcons]]
