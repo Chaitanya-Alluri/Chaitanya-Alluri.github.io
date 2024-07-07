@@ -14,12 +14,6 @@ Description = "The place on the web where I put blog posts with my knowledge ."
   ShowCodeCopyButtons = "true"
   ShowReadingTime = "true"
 
-  [params.archive]
-    title = "Archive"
-    layout = "archives"
-    url = "/archives/"
-    summary = "archives"
-
   [params.homeInfoParams]
     Title = "Hi there... 👋"
     Content = "Welcome to my blog..."
@@ -29,6 +23,6 @@ Description = "The place on the web where I put blog posts with my knowledge ."
     url = "https://www.linkedin.com/in/chaitanya-kumar-alluri-5a70203b/"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"] # necessary for search
+    home = ["HTML", "RSS", "JSON"]
 
 
