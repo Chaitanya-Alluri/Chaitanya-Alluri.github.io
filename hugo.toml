@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Chaitanya's Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
-Description = "The place on the web where I put blog posts with my knowledge ."
+description = "The place on the web where I share blog posts filled with my knowledge. 📚"
 
 [languages.en]
   languageName = "English"
@@ -29,16 +29,14 @@ Description = "The place on the web where I put blog posts with my knowledge ."
     url = "tags/"
     weight = 10
 
- 
-
 [params]
-  author = "chaitanya"
+  author = "Chaitanya"
   defaultTheme = "auto"
-  ShowShareButtons = "true"
-  ShowBreadCrumbs = "true"
-  ShowPostNavLinks = "true"
-  ShowCodeCopyButtons = "true"
-  ShowReadingTime = "true"
+  ShowShareButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
 
   [params.homeInfoParams]
     Title = "Hi there... 👋"
@@ -49,6 +47,4 @@ Description = "The place on the web where I put blog posts with my knowledge ."
     url = "https://www.linkedin.com/in/chaitanya-kumar-alluri-5a70203b/"
 
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
-
-
+  home = ["HTML", "RSS", "JSON"]
