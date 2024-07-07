@@ -1,14 +1,13 @@
 +++
-title = 'My First Post'
+title = 'About this site'
 date = 2024-07-06T19:56:32+05:30
 draft = false
 +++
 
 
-blog_post:
 
 
-# Blog Post: My First Blog Post 📝
+# My First Blog Post: 📝
 
 ## Introduction
 Welcome to my blog! I'm thrilled to share my insights with you on topics that intrigue me. This platform focuses on exploring the fundamental "why" and "what is" questions that pique curiosity. 🌟
