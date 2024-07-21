@@ -29,8 +29,8 @@ India offers over 200 ETFs covering various indices. Here's a breakdown of some 
 | SILVERBEES   | Silver Price         | Nippon India Mutual Fund     |
 | LIQUIDIETF   | Liquid Index         | ICICI Prudential Mutual Fund |
 | ITBEES       | Nifty IT Index       | Nippon India Mutual Fund     |
-| LIQUIDCASE   | Liquid Index         | Axis Mutual Fund             |
-| LIQUIDETF    | Liquid Index         | SBI Mutual Fund              |
+| LIQUIDCASE   | Liquid Index         | Zerodha Fund House           |
+| LIQUIDETF    | Liquid Index         | DSP Mutual Fund              |
 | GOLDBEES     | Gold Price           | Nippon India Mutual Fund     |
 | JUNIORBEES   | Nifty Next 50 Index  | Nippon India Mutual Fund     |
 
@@ -81,7 +81,7 @@ ETFs provide a cost-effective investment method but come with specific risks for
    - **Bid-Ask Spread**: Wider spreads can increase the cost of transactions, reducing overall returns.
 
 2. **Price Discrepancies** 💹
-   - **Market Price vs. NAV**: ETFs can trade at prices significantly different from their Net Asset Value (NAV), leading to potential overpayments or undervaluation.
+   - **Market Price vs. iNAV**: ETFs can trade at prices significantly different from their Intrinsic Net Asset Value (iNAV), leading to potential overpayments or undervaluation.
    - **Volatility**: Sudden market movements can exacerbate price differences between the ETF and its underlying assets.
 
 3. **Tracking Error** 📉
