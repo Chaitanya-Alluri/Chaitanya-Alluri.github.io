@@ -79,13 +79,10 @@ ETFs provide a cost-effective investment method but come with specific risks for
 3. **Tracking Error** 📉
    - **Performance Lag**: ETFs might not perfectly track the index due to management fees and other factors, leading to discrepancies in expected returns.
 
-4. **Complexity** 🧩
-   - **Understanding Mechanism**: The structure and functioning of ETFs can be more complex compared to index mutual funds, requiring a deeper understanding of market dynamics.
+### Importance of iNAV When Buying
 
-### Importance of NAV (Net Asset Value) When Buying
-
-- **True Value Indicator**: NAV represents the actual value of the underlying assets, providing a clear measure for investors.
-- **Informed Decisions**: Comparing the market price with the NAV helps in making informed investment choices, avoiding overpayment.
+- **True Value Indicator**: iNAV represents the actual value of the underlying assets, providing a clear measure for investors.
+- **Informed Decisions**: Comparing the market price with the iNAV helps in making informed investment choices, avoiding overpayment.
 
 ---
 
