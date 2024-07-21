@@ -11,6 +11,8 @@ Are you curious about where to find a comprehensive list of all the Exchange Tra
 - **NSE:** [Explore NSE's ETF Listings](https://www.nseindia.com/market-data/exchange-traded-funds-etf)
 - **BSE:** [Discover BSE's ETF Information](https://www.bseindia.com/markets/etf/ETF_MktWatch.aspx)
 
+---
+
 ## Understanding the Building Blocks: Indexes and ETFs 🧱
 
 ETFs are structured around underlying indices that track a specific basket of securities, such as stocks or bonds. By investing in an ETF, you are essentially purchasing a piece of that entire basket, offering a diversified investment option.
@@ -32,11 +34,12 @@ India offers over 200 ETFs covering various indices. Here's a breakdown of some 
 | GOLDBEES     | Gold Price           | Nippon India Mutual Fund     |
 | JUNIORBEES   | Nifty Next 50 Index  | Nippon India Mutual Fund     |
 
-
 ---
 
 ### Disclaimer
 *The popularity and trading volumes of these ETFs may change subject to market conditions and trends. Investors should conduct their own research and consider their risk tolerance before investing.*
+
+---
 
 ## Why Investors Prefer ETFs 💡
 
@@ -44,6 +47,8 @@ ETFs have gained popularity due to several compelling reasons:
 
 - **Flexibility:** ETFs can be bought and sold throughout the trading day, similar to regular stocks.
 - **Transparency:** Real-time price information is readily available, enabling investors to make informed decisions.
+
+---
 
 ## ETFs vs. Index Funds: A Comparative Analysis ⚖️
 
@@ -54,16 +59,18 @@ Although both ETFs and index funds provide exposure to a basket of securities, t
   - **Price Volatility:** The market price of an ETF may deviate from its underlying value (iNAV).
   - **Price Discovery Issues:** The true value of the ETF might not be accurately reflected in its market price.
 
+---
+
 ## Determining the iNAV (Net Asset Value) 💵
 
 The iNAV represents the underlying value of an ETF's holdings. You can typically find the iNAV for specific ETFs on the website of the Asset Management Company (AMC) that issued the ETF. For example, Nippon India provides iNAV information for their ETFs on their website.
 
-- **Nippon:** [Explore Nippon's iNAV  values](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/INAV.aspx)
-
-- **Zerodha:** [Explore Zerodha's LiquidCase iNAV  values](https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/)
+- **Nippon:** [Explore Nippon's iNAV values](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/INAV.aspx)
+- **Zerodha:** [Explore Zerodha's LiquidCase iNAV values](https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/)
 
 ![image](ZerodhaETF.jpg)
 
+---
 
 ## 🛡️ Risks of ETF Buying for Retail Investors Compared to Index Mutual Funds in India
 
@@ -89,17 +96,14 @@ ETFs provide a cost-effective investment method but come with specific risks for
 
 Considering these points can help retail investors make better-informed decisions when choosing between ETFs and index mutual funds, ensuring their investments align with their risk tolerance and financial goals.
 
+---
+
 ## Making Informed Investment Decisions 📘
 
 While ETFs offer convenient access to diversified investment opportunities, it is crucial to consider factors such as liquidity and potential price discrepancies before making an investment decision.
 
----
-
 **Remember:** Always conduct thorough research and consider consulting with a financial advisor to ensure that your investment choices align with your financial goals.
-
----
 
 By understanding the fundamentals of ETFs and utilizing the available resources, you can make well-informed investment decisions that align with your financial objectives.
 
 ---
-
