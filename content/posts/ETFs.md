@@ -59,7 +59,10 @@ Although both ETFs and index funds provide exposure to a basket of securities, t
 
 ## Determining the iNAV (Net Asset Value) 💵
 
-The iNAV represents the underlying value of an ETF's holdings. You can typically find the NAV for specific ETFs on the website of the Asset Management Company (AMC) that issued the ETF. For example, Nippon India provides NAV information for their ETFs on their website.
+The iNAV represents the underlying value of an ETF's holdings. You can typically find the iNAV for specific ETFs on the website of the Asset Management Company (AMC) that issued the ETF. For example, Nippon India provides iNAV information for their ETFs on their website.
+
+- **Nippon:** [Explore Nippon's iNAV  values](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/INAV.aspx)
+
 
 ## 🛡️ Risks of ETF Buying for Retail Investors Compared to Index Mutual Funds in India
 
