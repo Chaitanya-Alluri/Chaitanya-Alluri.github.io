@@ -63,7 +63,7 @@ The iNAV represents the underlying value of an ETF's holdings. You can typically
 
 - **Nippon:** [Explore Nippon's iNAV  values](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/INAV.aspx)
 
-- **Zerodha:** [Explore Zerodha's LiquidCase iNAV  values] (https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/)
+- **Zerodha:** [Explore Zerodha's LiquidCase iNAV  values](https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/)
 
 ![image](ZerodhaETF.jpg)
 
