@@ -22,18 +22,18 @@ ETFs are structured around underlying indices that track a specific basket of se
 
 India offers over 200 ETFs covering various indices. Here's a breakdown of some popular ones:
 
-| ETF Name     | Ticker Name  | Underlying Index     | AMC Company                  |
-|--------------|--------------|----------------------|------------------------------|
-| LIQUIDBEES   | LIQUIDBEES   | Liquid Index         | Nippon India Mutual Fund     |
-| CPSEETF      | CPSEETF      | Nifty CPSE Index     | Nippon India Mutual Fund     |
-| NIFTYBEES    | NIFTYBEES    | Nifty 50 Index       | Nippon India Mutual Fund     |
-| SILVERBEES   | SILVERBEES   | Silver Price         | Nippon India Mutual Fund     |
-| LIQUIDIETF   | LIQUIDIETF   | Liquid Index         | ICICI Prudential Mutual Fund |
-| ITBEES       | ITBEES       | Nifty IT Index       | Nippon India Mutual Fund     |
-| LIQUIDCASE   | LIQUIDCASE   | Liquid Index         | Axis Mutual Fund             |
-| LIQUIDETF    | LIQUIDETF    | Liquid Index         | SBI Mutual Fund              |
-| GOLDBEES     | GOLDBEES     | Gold Price           | Nippon India Mutual Fund     |
-| JUNIORBEES   | JUNIORBEES   | Nifty Next 50 Index  | Nippon India Mutual Fund     |
+| ETF Name     | Underlying Index     | AMC Company                  |
+|--------------|----------------------|------------------------------|
+| LIQUIDBEES   | Liquid Index         | Nippon India Mutual Fund     |
+| CPSEETF      | Nifty CPSE Index     | Nippon India Mutual Fund     |
+| NIFTYBEES    | Nifty 50 Index       | Nippon India Mutual Fund     |
+| SILVERBEES   | Silver Price         | Nippon India Mutual Fund     |
+| LIQUIDIETF   | Liquid Index         | ICICI Prudential Mutual Fund |
+| ITBEES       | Nifty IT Index       | Nippon India Mutual Fund     |
+| LIQUIDCASE   | Liquid Index         | Axis Mutual Fund             |
+| LIQUIDETF    | Liquid Index         | SBI Mutual Fund              |
+| GOLDBEES     | Gold Price           | Nippon India Mutual Fund     |
+| JUNIORBEES   | Nifty Next 50 Index  | Nippon India Mutual Fund     |
 
 
 ---
@@ -62,6 +62,10 @@ Although both ETFs and index funds provide exposure to a basket of securities, t
 The iNAV represents the underlying value of an ETF's holdings. You can typically find the iNAV for specific ETFs on the website of the Asset Management Company (AMC) that issued the ETF. For example, Nippon India provides iNAV information for their ETFs on their website.
 
 - **Nippon:** [Explore Nippon's iNAV  values](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/INAV.aspx)
+
+- **Zerodha:** [Explore Zerodha's LiquidCase iNAV  values] (https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/)
+
+![Zerodha LiquidCase ETF] [image](images/ZerodhaETF.png)
 
 
 ## 🛡️ Risks of ETF Buying for Retail Investors Compared to Index Mutual Funds in India
