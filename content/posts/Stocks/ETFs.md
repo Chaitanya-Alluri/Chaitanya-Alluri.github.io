@@ -65,7 +65,7 @@ The iNAV represents the underlying value of an ETF's holdings. You can typically
 
 - **Zerodha:** [Explore Zerodha's LiquidCase iNAV  values] (https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/)
 
-![image](images/ZerodhaETF.jpg)
+![image](/ZerodhaETF.jpg)
 
 
 ## 🛡️ Risks of ETF Buying for Retail Investors Compared to Index Mutual Funds in India
