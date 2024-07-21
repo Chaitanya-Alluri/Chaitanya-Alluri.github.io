@@ -18,7 +18,7 @@ Are you curious about where to find a comprehensive list of all the Exchange Tra
 
 ETFs are structured around underlying indices that track a specific basket of securities, such as stocks or bonds. By investing in an ETF, you are essentially purchasing a piece of that entire basket, offering a diversified investment option.
 
-## Top Traded ETFs 📊
+### Top Traded ETFs 📊
 
 India offers over 200 ETFs covering various indices. Here's a breakdown of some popular ones:
 
@@ -34,6 +34,7 @@ India offers over 200 ETFs covering various indices. Here's a breakdown of some 
 | LIQUIDETF    | LIQUIDETF    | Liquid Index         | SBI Mutual Fund              |
 | GOLDBEES     | GOLDBEES     | Gold Price           | Nippon India Mutual Fund     |
 | JUNIORBEES   | JUNIORBEES   | Nifty Next 50 Index  | Nippon India Mutual Fund     |
+
 
 ---
 
