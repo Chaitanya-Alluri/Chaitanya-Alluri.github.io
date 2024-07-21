@@ -4,9 +4,6 @@ date = 2024-07-21T19:56:32+05:30
 draft = false
 +++
 
-
-# Unlocking the Potential of ETFs: Your Guide to Smart Investing 📈
-
 ## Finding Your Perfect ETF 🔍
 
 Are you curious about where to find a comprehensive list of all the Exchange Traded Funds (ETFs) listed in India? Look no further! Both the National Stock Exchange of India (NSE) and the Bombay Stock Exchange (BSE) provide detailed lists on their websites:
