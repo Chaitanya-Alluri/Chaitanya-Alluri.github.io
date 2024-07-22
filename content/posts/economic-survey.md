@@ -1,5 +1,5 @@
 +++
-title = 'Economic Survery Report: Why Should You Care? 📊'
+title = 'Economic Survery Report: Why Should You Care? 📝📊'
 date = 2024-07-22T19:56:32+05:30
 draft = false
 +++
