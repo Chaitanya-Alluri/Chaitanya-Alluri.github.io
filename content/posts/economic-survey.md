@@ -23,7 +23,7 @@ The report is publicly available and can be downloaded in parts. Get your copy h
 
 ---
 
-# Professional Highlights from the Economic Survey 2023-24 📈
+# Highlights from the Economic Survey 2023-24 📈
 
 ## 1. State of the Economy 🌟
 
