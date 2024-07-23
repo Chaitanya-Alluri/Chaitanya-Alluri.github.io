@@ -18,8 +18,6 @@ You can download the budget using the following link: [India Budget](https://www
 
 **Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. This means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. Consider it a new, unofficial 🏛️ Indirect Inheritance Tax.
 
-**Post-July 23, 2024:** 📅 According to the new tax structure, indexation benefits will no longer be available for any asset class. This means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. 🏛️ Consider it a new, unofficial Indirect Inheritance Tax.
-
 **Taxation with Indexation:**
 
 - 🏠 Cost of house bought in 2000: ₹15 lakh
