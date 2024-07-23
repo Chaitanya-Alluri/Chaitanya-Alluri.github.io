@@ -24,7 +24,7 @@ You can download the budget using the following link: [India Budget](https://www
 
 **Taxation on Par with Equities:** Real estate and gold will now be taxed similarly to equities (stocks and mutual funds). The holding period for these assets to qualify as long-term investments is now two years, compared to one year for equities. This alignment might make gold and real estate less attractive as long-term investments.
 
-**Additional Costs:** Selling real estate also involves other costs such as stamp duty, which varies by state, making the liquidation process even more burdensome.
+**Additional Costs:** Selling real estate also involves other costs such as stamp duty, which varies by state, find buyers , making the liquidation process even more burdensome.
 
 ### Future Implications 🔮
 
