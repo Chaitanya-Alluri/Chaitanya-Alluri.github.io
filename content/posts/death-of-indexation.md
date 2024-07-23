@@ -52,8 +52,6 @@ Under the new tax regime, selling an ancestral house or gold will incur higher t
 
 2. **Shift in Investment Strategies:** Investors might reconsider their portfolios, favoring assets with more favorable tax treatments. This shift could impact market dynamics and real estate prices over time.
 
-3. **Increased Government Revenue:** The government aims to widen and deepen the tax base with these changes, potentially increasing its revenue from capital gains taxes.
-
 ### Conclusion 🏁
 
 The Budget 2024 has introduced significant changes to the long-term capital gains tax on gold and real estate. Without the benefit of indexation, investors must carefully reconsider their strategies. As always, it's wise to consult with a financial advisor to navigate these changes and optimize your investment approach. Stay informed and plan ahead to manage your assets effectively under the new tax regime.
