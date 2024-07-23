@@ -1,5 +1,5 @@
 +++
-title = 'Budget 2024: No More Indexation for Gold and Real Estate - A Game Changer? 💰🏠?'
+title = 'Budget 2024: No More Indexation for Gold and Real Estate - A Game Changer💰🏠?'
 date = 2024-07-22T19:56:32+05:30
 draft = false
 +++
