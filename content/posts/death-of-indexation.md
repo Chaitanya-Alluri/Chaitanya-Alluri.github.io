@@ -4,9 +4,9 @@ date = 2024-07-22T19:56:32+05:30
 draft = false
 +++
 
-## New Long-Term Capital Gains Tax Rules for RealEstate and Gold: What You Need to Know for 2024 and Beyond 🏠💰
+## New Long-Term Capital Gains Tax Rules for RealEstate and Gold: 2024 and Beyond 🏠💰
 
-Imagine you bought gold or a piece of real estate 30 years ago. If you're planning to sell it now, you need to prepare for a significant tax hit due to changes in the Budget 2024. Let's dive into the details of this new tax regime and its implications.
+Imagine you bought or have ancestral gold or a piece of real estate 30+ years ago. If you're planning to sell it now, you need to prepare for a significant tax hit due to changes in the Budget 2024. Let's dive into the details of this new tax regime and its implications.
 
 ### Where to Download a Copy of the Report 📥
 
@@ -16,7 +16,7 @@ You can download the budget using the following link: [India Budget](https://www
 
 **Until July 23, 2024:** If you sold your gold or real estate asset, you would pay a 20% tax on the gains after accounting for "indexation." Indexation adjusts the purchase price of an asset to reflect inflation, thereby reducing your taxable gains. This method has been a popular strategy to hedge against inflation and lower the tax burden on long-term investments.
 
-**Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. This change means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. 
+**Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. This change means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. This is kind of a new 🏛️ Indirect Inheritance Tax (not officially though)
 
 ### Impact of the New Tax Structure 📊
 
