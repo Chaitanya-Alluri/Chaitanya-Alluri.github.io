@@ -5,6 +5,9 @@ date = 2024-07-24T16:30:00+05:30
 draft = false 
 +++
 
+![image](Book.jpg)
+
+
 ### Checklist Manifesto 📝: A Quick ⏩📖
 
 #### 🌟 Who Should Read This Book?
