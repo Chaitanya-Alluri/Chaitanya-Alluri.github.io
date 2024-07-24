@@ -19,17 +19,17 @@ You can download the budget using the following link: [India Budget](https://www
 **Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. This means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. Consider it a new, unofficial 🏛️ Indirect Inheritance Tax.
 
 
-### Scenario: Property Investment in 2005 🏡💰
+### Scenario: Property Investment in 2001 🏡💰
 
 **Taxation with Indexation:**
 
-- **Investment Year:** 2005 📅
+- **Investment Year:** 2001 📅
 - **Total Investment Amount:** ₹25 lakh 💸
 - **Sale Value (Current):** ₹1 crore 💵
-- **Cost of Acquisition with Indexation:** ₹26 lakh 📈
-- **Total Profit:** ₹74 lakh 📊
+- **Cost of Acquisition with Indexation:** ₹90.75 lakh 📈
+- **Total Profit:** ₹9.25 lakh 📊
 - **Tax Rate:** 20% on Profit 💸
-- **Total Tax:** ₹14.8 lakh 💸
+- **Total Tax:** ₹1.85 lakh 💸
 
 
 **Taxation without Indexation (from 2024):**
@@ -43,12 +43,12 @@ You can download the budget using the following link: [India Budget](https://www
 ### Comparison:
 
 - **With Indexation:**
-  - **Profit:** ₹74 lakh 📊
-  - **Tax:** ₹14.8 lakh 💸
+  - **Profit:** ₹9.25 lakh 📊
+  - **Tax:** ₹1.85 lakh 💸
 
 - **Without Indexation:**
   - **Profit:** ₹75 lakh 📊
-  - **Tax:** ₹9.375 lakh 😞
+  - **Tax:** ₹9.375 lakh 💸😞
 
 ### Impact of the New Tax Structure 📊
 
