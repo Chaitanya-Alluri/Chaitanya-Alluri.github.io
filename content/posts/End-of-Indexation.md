@@ -6,7 +6,7 @@ draft = false
 
 ## New Long-Term Capital Gains Tax Rules for Real Estate and Gold: 2024 and Beyond 🏠💰
 
-Imagine you bought or inherited gold or real estate more than 30 years ago. Now, if you're planning to sell it, get ready for a significant tax hit due to changes introduced in Budget 2024. Let's dive into the details of this new tax regime and its implications.
+Imagine you bought or inherited gold or real estate more than 30 years ago. If you're planning to sell it, prepare for a significant tax hit due to changes introduced in Budget 2024. Let's dive into this new tax regime's details and implications.
 
 ### Where to Download a Copy of the Report 📥
 
@@ -16,7 +16,7 @@ You can download the budget using the following link: [India Budget](https://www
 
 **Until July 23, 2024:** Selling your gold or real estate meant paying a 20% tax on the gains after accounting for "indexation." Indexation adjusts the purchase price of an asset to reflect inflation, thereby reducing your taxable gains. This method has been a popular strategy to hedge against inflation and lower the tax burden on long-term investments.
 
-**Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. This means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. Consider it a new, unofficial 🏛️ Indirect Inheritance Tax.
+**Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. If you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. Consider it a new, unofficial 🏛️ Indirect Inheritance Tax.
 
 
 ### Scenario: Property Investment in 2001 🏡💰
@@ -52,9 +52,9 @@ You can download the budget using the following link: [India Budget](https://www
 
 ### Impact of the New Tax Structure 📊
 
-**No More Indexation:** Without indexation, the entire gain from the sale of gold or real estate will be subject to taxation. This is a substantial shift from the previous system where inflation's impact was mitigated.
+**No More Indexation:** Without indexation, the entire gain from selling gold or real estate will be subject to taxation. This is a substantial shift from the previous system, where inflation's impact was mitigated.
 
-**Taxation on Par with Equities:** Real estate and gold will now be taxed similarly to equities (stocks and mutual funds). The holding period for these assets to qualify as long-term investments is now two years, compared to one year for equities. This alignment might make gold and real estate less attractive as long-term investments.
+**Taxation on Par with Equities:** Real estate and gold will now be taxed similarly to equities (stocks and mutual funds). The holding period for these assets to qualify as long-term investments is two years, compared to one year for equities. This alignment might make gold and real estate less attractive as long-term investments.
 
 **Additional Costs:** Selling real estate also involves other costs such as stamp duty, which varies by state, and finding buyers, making the liquidation process even more burdensome.
 
