@@ -5,7 +5,6 @@ date = 2024-07-24T16:30:00+05:30
 draft = false 
 +++
 
-
 ### Checklist Manifesto 📝: A Quick ⏩📖
 
 #### 🌟 Who Should Read This Book?
@@ -18,7 +17,7 @@ In 'The Checklist Manifesto ', Atul Gawande, a respected surgeon, and writer, de
 
 #### ✈️ How Does the Book Progress?
 
-Gawande tells compelling stories of significant accomplishments achieved through the use of checklists. From saving lives in hospitals to preventing Boeing from going bankrupt, the book is filled with real-life experiments and anecdotes highlighting this straightforward tool's effectiveness.
+Gawande tells compelling stories of significant accomplishments achieved through the use of checklists. From saving lives in hospitals to preventing Boeing from almost going bankrupt, the book is filled with real-life experiments and anecdotes highlighting this straightforward tool's effectiveness.
 
 #### 📝 How Will It Help You?
 
@@ -26,6 +25,6 @@ Upon finishing 'The Checklist Manifesto ', you'll be inspired to integrate check
 
 ### My Take
 
-**A Good Life Hack for Everyone**
+**A Good Life Hack Book for Everyone**
 
 **Rating: ⭐⭐⭐⭐ (4/5)**
