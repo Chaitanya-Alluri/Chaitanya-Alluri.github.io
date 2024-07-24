@@ -1,5 +1,5 @@
 
-+++ title = 'Book Review: "The Checklist Manifesto" by Atul Gawande📚' date = 2024-07-24T19:56:32+05:30 draft = false +++
++++ title = 'Book Review: "The Checklist Manifesto" by Atul Gawande 📚' date = 2024-07-24T19:56:32+05:30 draft = false +++
 
 ### 📚 "The Checklist Manifesto" by Atul Gawande
 
