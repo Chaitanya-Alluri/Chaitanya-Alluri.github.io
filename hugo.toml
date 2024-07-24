@@ -43,17 +43,16 @@ description = "The place on the web where I share blog posts filled with my know
     Content = "Welcome to my blog..."
 
   [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/chaitanya-kumar-alluri-5a70203b/"
-  [[params.socialIcons]]
     name = "x"
     url = "https://x.com/chaitualluri"
      
-     
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/chaitanya-kumar-alluri-5a70203b/"     
 
   # SEO Metadata
   siteName = "Chaitanya's Blog"
-  keywords = ["blog", "technology", "coding", "development", "knowledge sharing"]
+  keywords = ["blog", "technology", "coding", "development", "knowledge sharing", "Stock Market", "Finance"]
   canonifyUrls = true
 
 [outputs]
