@@ -39,8 +39,9 @@ description = "The place on the web where I share blog posts filled with my know
   ShowReadingTime = true
 
   [params.homeInfoParams]
-    Title = "Hi there... 👋"
-    Content = "Welcome to my blog..."
+    Title = "🌟 Hi there! 👋"
+    Content = "Welcome to my blog! 🌐✨
+              Dive into my thoughts, insightful tips, and so much more. Enjoy your stay, and feel free to explore! 😊🚀"
 
   [[params.socialIcons]]
     name = "x"
