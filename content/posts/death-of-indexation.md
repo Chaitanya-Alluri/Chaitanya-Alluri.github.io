@@ -18,23 +18,37 @@ You can download the budget using the following link: [India Budget](https://www
 
 **Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. This means if you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. Consider it a new, unofficial 🏛️ Indirect Inheritance Tax.
 
+
+### Scenario: Property Investment in 2005 🏡💰
+
 **Taxation with Indexation:**
 
-- 🏠 Cost of house bought in 2000: ₹15 lakh
-- 📈 Current valuation: ₹100 lakh
-- 📊 Indexed cost: ₹54.5 lakh
-- 💰 Total profit: ₹45.5 lakh
-- 💸 Tax of 20% on profit: ₹9.1 lakh
+- **Investment Year:** 2005 📅
+- **Total Investment Amount:** ₹25 lakh 💸
+- **Sale Value (Current):** ₹1 crore 💵
+- **Cost of Acquisition with Indexation:** ₹26 lakh 📈
+- **Total Profit:** ₹74 lakh 📊
+- **Tax Rate:** 20% on Profit 💸
+- **Total Tax:** ₹14.8 lakh 💸
+
 
 **Taxation without Indexation (from 2024):**
 
-- 🏠 Cost of house: ₹15 lakh
-- 💵 Sell value: ₹100 lakh
-- 💸 Profit: ₹85 lakh
-- 🧾 12.5% tax on profit: ₹10.625 lakh
+- **Cost of Property:** ₹25 lakh 🏠
+- **Sell Value:** ₹1 crore 💰
+- **Total Profit:** ₹75 lakh 📊
+- **Tax Rate:** 12.5% on Profit 💸
+- **Total Tax:** ₹9.375 lakh 💸
 
-**Summary:**
-Under the new tax regime, selling an ancestral house or gold will incur higher taxes due to the removal of indexation benefits. The tax payable will be ₹10.625 lakh compared to the previous ₹9.1 lakh, significantly impacting your net gains by 1.5 lakh. 💼📉
+### Comparison:
+
+- **With Indexation:**
+  - **Profit:** ₹74 lakh 📊
+  - **Tax:** ₹14.8 lakh 💸
+
+- **Without Indexation:**
+  - **Profit:** ₹75 lakh 📊
+  - **Tax:** ₹9.375 lakh 😞
 
 ### Impact of the New Tax Structure 📊
 
