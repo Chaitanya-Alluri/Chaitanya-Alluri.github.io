@@ -8,7 +8,7 @@ The Economic Survey report, presented before the budget, is crucial for several 
 
 1. **Economic Snapshot**: Provides a comprehensive overview of the current economy, including GDP growth, inflation, employment, and trade.
 2. **Policy Insight**: Outlines the government's economic policy stance and priorities, aiding in understanding the budget's context.
-3. **Data and Analysis**: Offers detailed statistical data, essential for informed decision-making and forecasting.
+3. **Data and Analysis**: Offers detailed statistical data essential for informed decision-making and forecasting.
 4. **Challenges and Opportunities**: Highlights economic challenges and potential growth areas, guiding future policies.
 5. **Transparency**: Ensures government accountability and transparency in economic management.
 6. **Policy Recommendations**: Includes suggestions for economic reforms that can influence budget decisions.
@@ -29,8 +29,8 @@ The report is publicly available and can be downloaded in parts. Get your copy h
 
 - **Growth**: The Indian economy is estimated to have grown by 8.2% in real terms in FY24, building on growth rates of 9.7% and 7.0% in the previous two financial years. This robust growth is despite global geopolitical challenges.
 - **Inflation**: Headline inflation is largely under control, although some specific food items remain elevated.
-- **Trade**: The trade deficit was lower in FY24 than in FY23, with a current account deficit of around 0.7% of GDP.
-- **Investment**: Public investment has been crucial in sustaining capital formation. The private sector has begun to invest significantly since FY22, and foreign direct investment remains strong, albeit slightly reduced due to global trends.
+- **Trade**: The trade deficit was lower in FY24 than FY23, with a current account deficit of around 0.7% of GDP.
+- **Investment**: Public investment has been crucial in sustaining capital formation. The private sector has begun to invest significantly since FY22, and foreign direct investment remains strong, albeit slightly reduced, due to global trends.
 
 ## 2. Monetary Management and Financial Intermediation 💵
 
@@ -39,7 +39,7 @@ The report is publicly available and can be downloaded in parts. Get your copy h
 
 ## 3. Prices and Inflation 📉
 
-- **Inflation Control**: Retail inflation has been kept under control, with significant efforts to manage core inflation dynamics post-pandemic.
+- **Inflation Control**: Retail inflation has been controlled, with significant efforts to manage core inflation dynamics post-pandemic.
 - **Food Inflation**: Efforts to stabilize food prices have been a priority, with measures to address interstate variations in retail inflation.
 
 ## 4. External Sector 🌍
@@ -54,7 +54,7 @@ The report is publicly available and can be downloaded in parts. Get your copy h
 
 ## 6. Social Sector 🌱
 
-- **Empowerment Initiatives**: Significant investments in social services, healthcare, and education. Programs aimed at empowering women and rural development are highlighted.
+- **Empowerment Initiatives**: Significant social services, healthcare, and education investments. Programs aimed at empowering women and rural development are highlighted.
 - **Skill Development**: Enhanced focus on employment and skill development to meet the evolving job market needs.
 
 ## 7. Agriculture and Food Management 🌾
@@ -64,19 +64,19 @@ The report is publicly available and can be downloaded in parts. Get your copy h
 
 ## 8. Industry and Services 🏭
 
-- **SME Support**: Policies to support small and medium enterprises (SMEs), promoting formalization, and easing access to finance.
+- **SME Support**: Policies to support small and medium enterprises (SMEs), promote formalization, and ease access to finance.
 - **Service Sector Growth**: The service sector continues to be a significant growth driver, with initiatives to enhance its performance and address challenges.
 
 ## 9. Infrastructure Development 🏗️
 
-- **Public Expenditure**: Increased public expenditure on infrastructure to boost potential growth, with a focus on sustainable and resilient infrastructure.
+- **Public Expenditure**: Increased public expenditure on infrastructure to boost potential growth, focusing on sustainable and resilient infrastructure.
 
 ### Government's Policy Stress Points
 
 - **Inclusive Growth**: Policies aimed at ensuring that economic growth benefits all sections of society, with a particular focus on rural areas, women, and youth.
 - **Financial Stability**: Emphasizing monetary and financial stability to support sustained economic growth.
-- **Climate Action**: Prioritizing low-carbon development and energy transition, with commitments to international climate finance and initiatives to address climate change.
-- **Employment Generation**: Addressing the need for job creation, especially in the private sector, and enhancing skill development programs.
-- **Agricultural Reform**: Reorienting agricultural policies to better serve farmers, improve soil fertility, manage water resources, and boost agricultural productivity.
+- **Climate Action**: Prioritize low-carbon development and energy transition, with commitments to international climate finance and initiatives to address climate change.
+- **Employment Generation**: Addressing job creation needs, especially in the private sector, and enhancing skill development programs.
+- **Agricultural Reform**: Reorienting agricultural policies to serve farmers better, improve soil fertility, manage water resources, and boost agricultural productivity.
 
-The government is focusing on balancing growth with social equity, climate action, and financial stability, aiming for an inclusive and sustainable development trajectory. 🌍💼
+The government focuses on balancing growth with social equity, climate action, and financial stability, aiming for an inclusive and sustainable development trajectory. 🌍💼
