@@ -1,6 +1,6 @@
 +++ 
 title = "Evolution of Asset Class Taxation in India 🚀" 
-date = 2024-07-24T21:30:00+05:30 
+date = 2024-07-25T01:30:00+05:30 
 draft = false 
 +++
 
