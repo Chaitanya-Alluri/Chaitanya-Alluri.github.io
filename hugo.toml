@@ -67,6 +67,15 @@ favicon32x32 = "/assets/favicon-32x32.png"
 apple_touch_icon = "/assets/apple-touch-icon.png"
 safari_pinned_tab = "/assets/favicon.ico"
 
+[assets]
+favicon = "/assets/favicon.ico"
+favicon16x16 = "/assets/favicon-16x16.png"
+favicon32x32 = "/assets/favicon-32x32.png"
+apple_touch_icon = "/assets/apple-touch-icon.png"
+safari_pinned_tab = "/assets/favicon.ico"
+chrome_192x192 = "/assets/android-chrome-192x192.png"
+chrome_512x512 = "/assets/android-chrome-512x512.png"
+
 
   # SEO Metadata
   siteName = "Chaitanya's Blog"
