@@ -25,10 +25,10 @@ The government has revised the asset taxation framework to simplify the taxation
 
 FAQ Copy here [IncomeTaxIndia](https://incometaxindia.gov.in/Lists/Latest%20News/Attachments/673/FAQs%20-New-Capital-Gains-Taxation-regime.pdf)📥
 
-| **Asset Type**     | **Risk Level**     | **New Holding Period for LTCG** | **New Tax Rate**           |
-|--------------------|--------------------|---------------------------------|----------------------------|
-| Listed Assets      | All types          | 12 Months                       | Increased to 12.5%         |
-| Unlisted Assets    | All types          | Reduced to 2 years              | Reduced to 12.5%           |
+| **Asset Type**     | **Risk Level**     | **New Holding Period for LTCG** |
+|--------------------|--------------------|---------------------------------|
+| Listed Assets      | All types          | 12 Months                       |
+| Unlisted Assets    | All types          | Reduced to 2 years              |
 
 
 ### Specific Changes in Taxation:
