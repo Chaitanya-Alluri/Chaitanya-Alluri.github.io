@@ -2,6 +2,7 @@
 title = 'Budget 2024: No More Indexation for Gold and Real Estate - A Game Changer💰🏠?'
 date = 2024-07-23T19:56:32+05:30
 draft = false
+tags = ["#Budget2024", "#TaxChanges", "#RealEstateTax", "#GoldInvestment", "#CapitalGains"]
 +++
 
 ## New Long-Term Capital Gains Tax Rules for Real Estate and Gold: 2024 and Beyond 🏠💰
