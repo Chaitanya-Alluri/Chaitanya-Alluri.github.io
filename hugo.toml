@@ -51,7 +51,7 @@ description = "The place on the web where I share blog posts filled with my know
   url = "https://www.linkedin.com/in/chaitanya-kumar-alluri-5a70203b/"
 
 [[params.socialIcons]]
-  name = "rss-simple"
+  name = "rss"
   url = "feed.xml"
 
 [outputFormats]
