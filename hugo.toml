@@ -54,11 +54,10 @@ description = "The place on the web where I share blog posts filled with my know
   name = "rss-simple"
   url = "feed.xml"
 
-[outputFormats.RSS]
-name = "rss-simple"
-url = "feed.xml"
-mediatype = "application/rss"
-baseName = "feed"
+[outputFormats]
+  [outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "feed"
 
 
   # SEO Metadata
