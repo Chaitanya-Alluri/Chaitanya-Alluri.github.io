@@ -2,7 +2,7 @@
 title = 'ETFs: Your Guide to Smart Investing 💡💸'
 date = 2024-07-21T19:56:32+05:30
 draft = false
-tags = ["#SmartInvesting", "#ETFGuide", "#InvestingTips", "#FinancialPlanning", "#ETFsIndia"]
+tags = ["#SmartInvesting", "#ETFGuide", "#InvestingTips"]
 +++
 
 ## Finding Your Perfect ETF 🔍

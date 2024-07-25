@@ -2,7 +2,7 @@
 title = 'Economic Survey Report: Why Should You Care? 📝📊'
 date = 2024-07-22T19:56:32+05:30
 draft = false
-tags = ["#EconomicSurvey2024", "#IndiaBudget", "#EconomicInsights", "#PolicyAnalysis", "#FinancialOverview"]
+tags = ["#EconomicSurvey2024", "#IndiaBudget", "#EconomicInsights"]
 +++
 
 The Economic Survey report, presented before the budget, is crucial for several reasons:

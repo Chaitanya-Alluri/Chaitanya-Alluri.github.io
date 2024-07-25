@@ -3,7 +3,7 @@
 title = "Book Review: 'The Checklist Manifesto' by Atul Gawande 📚" 
 date = 2024-07-24T16:30:00+05:30 
 draft = false 
-tags = ["#BookReview", "#ChecklistManifesto", "#AtulGawande", "#ProductivityTips", "#LifeHacks"]
+tags = ["#BookReview", "#ChecklistManifesto", "#AtulGawande", "#Productivity", "#LifeHacks"]
 +++
 
 ![image](Book.jpg)
