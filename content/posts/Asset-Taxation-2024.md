@@ -1,7 +1,8 @@
-+++ 
++++
 title = "Evolution of Asset Class Taxation in India 🚀" 
 date = 2024-07-25T05:30:00+05:30 
 draft = false 
+tags = ["#AssetTaxationIndia", "#TaxPolicyChanges", "#InvestmentTaxTrends", "#CapitalGains2024", "#FinancialTaxationUpdate"]
 +++
 
 ### Introduction: Shifting Dynamics in Asset Taxation 🔄
