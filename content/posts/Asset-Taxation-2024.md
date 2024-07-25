@@ -27,8 +27,8 @@ FAQ Copy here [IncomeTaxIndia](https://incometaxindia.gov.in/Lists/Latest%20News
 
 | **Asset Type**     | **Risk Level**     | **New Holding Period for LTCG** | **New Tax Rate**           |
 |--------------------|--------------------|---------------------------------|----------------------------|
-| Listed Assets      | High               | Same                            | Increased to 12.5%         |
-| Unlisted Assets    | Low to Medium      | Reduced to 2 years              | Reduced to 12.5%           |
+| Listed Assets      | All types          | Same                            | Increased to 12.5%         |
+| Unlisted Assets    | All types          | Reduced to 2 years              | Reduced to 12.5%           |
 
 
 ### Specific Changes in Taxation:
