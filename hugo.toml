@@ -37,6 +37,7 @@ description = "The place on the web where I share blog posts filled with my know
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
   ShowReadingTime = true
+  favicon = "/assets/favicons.png"
   
   [params.homeInfoParams]
     Title = "🌟 Hi there! 👋"
@@ -60,7 +61,7 @@ description = "The place on the web where I share blog posts filled with my know
   baseName = "feed"
   
 [assets]
-disableHLJS = false
+disableHLJS = true
 favicon = "/assets/favicon.ico"
 favicon16x16 = "/assets/favicon-16x16.png"
 favicon32x32 = "/assets/favicon-32x32.png"
