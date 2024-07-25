@@ -8,7 +8,7 @@ draft = false
 
 Taxation policies significantly impact the financial decisions of individuals and businesses. Traditionally, salaried employees have felt the burden of higher taxes than business owners, who often earn substantially more yet pay relatively less. The government has justified this disparity by claiming that business owners are "risk-takers." The concept of risk has similarly been applied to asset classes, but recent changes indicate a shift in this philosophy.
 
-### Traditional Taxation Philosophy: Risk-Based Classification 📊
+### Traditional Taxation Philosophy: Risk-Based Classification 💰 
 
 Historically, asset classes were taxed based on their perceived risk levels:
 
@@ -38,7 +38,7 @@ FAQ Copy here [IncomeTaxIndia](https://incometaxindia.gov.in/Lists/Latest%20News
 | Listed Assets      | Listed stocks, Listed bonds, Equity ETFs, Gold ETFs, Bond ETFs, REITs, InvITs, MFs                                           | 12 months                   |
 | Unlisted Assets    | Real estate, Gold, Unlisted shares                                                                                           | 24 months                   |
 
-### Conclusion: 📊
+### Conclusion: 📝
 
 The government's approach to asset taxation is witnessing a transformative shift, moving away from the traditional 'risk' philosophy. The new strategy focuses on creating a simplified taxation structure. However, these changes raise several questions about taxation based on the 'risk' philosophy and their potential impact on market dynamics. The increased tax rate on high-risk assets could deter investors, potentially stifling market dynamism and innovation.
 
