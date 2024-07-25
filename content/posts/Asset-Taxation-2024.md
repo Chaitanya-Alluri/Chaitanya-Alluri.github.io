@@ -1,6 +1,6 @@
 +++ 
 title = "Evolution of Asset Class Taxation in India 🚀" 
-date = 2024-07-25T01:30:00+05:30 
+date = 2024-07-25T05:30:00+05:30 
 draft = false 
 +++
 
@@ -12,35 +12,34 @@ Taxation policies significantly impact the financial decisions of individuals an
 
 Historically, asset classes were taxed based on their perceived risk levels:
 
-| **Asset Class**             | **Risk Level** | **Holding Period for LTCG** | **Tax Rate**                  |
-|-----------------------------|----------------|-----------------------------|-------------------------------|
-| Real Estate, Gold, SGBs     | Low            | 3 years                     | 20% with indexation benefits  |
-| Equity Mutual Funds         | High           | 12 months                   | 10%                           |
+| **Asset Class**               | **Risk Level** | **Holding Period for LTCG** | **Tax Rate**                  |
+|-------------------------------|----------------|-----------------------------|-------------------------------|
+| Real Estate, Gold, SGBs, Debt MFs | Low            | 3 years                     | 20% with indexation benefits  |
+| Equity, Equity MFs             | High           | 12 months                   | 10%                           |
 
 SEBI (Securities and Exchange Board of India) allowed mutual funds to be categorized into various risk profiles. For example, overnight liquid funds were considered low-risk, while equity index funds were classified as high-risk. This classification supported logical taxation, where low-risk assets had higher tax rates and more extended holding periods, and high-risk assets enjoyed lower tax rates and shorter holding periods.
 
 ### Recent Changes: A Paradigm Shift 🔄
 
-In a bid to simplify the taxation structure, the government has revised the taxation framework for assets, fundamentally altering the landscape:
+To simplify the taxation structure, the government has revised the asset taxation framework, fundamentally altering the landscape by differentiating between listed and unlisted assets.
 
-| **Asset Type**              | **Risk Level**     | **New Holding Period for LTCG** | **New Tax Rate**           |
-|-----------------------------|--------------------|---------------------------------|----------------------------|
-| High-Risk Assets            | High               | Same                            | Increased to 12.5%         |
-| Most Low-Risk Assets        | Low to Medium      | Reduced to 2 years              | Aligned at 12.5%           |
+FAQ Copy here [IncomeTaxIndia](https://incometaxindia.gov.in/Lists/Latest%20News/Attachments/673/FAQs%20-New-Capital-Gains-Taxation-regime.pdf)📥
 
-Note: Most Debt-related assets, such as debt MFs, are still charged as per individual tax slab rates.
+| **Asset Type**     | **Risk Level**     | **New Holding Period for LTCG** | **New Tax Rate**           |
+|--------------------|--------------------|---------------------------------|----------------------------|
+| Listed Assets      | High               | Same                            | Increased to 12.5%         |
+| Unlisted Assets    | Low to Medium      | Reduced to 2 years              | Reduced to 12.5%           |
 
 
 ### Specific Changes in Taxation:
 
-| **Category**    | **Assets Included**                                                                                                      | **Holding Period for LTCG** |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Listed Assets   | Listed stocks, Listed bonds, Equity ETFs, Gold ETFs, Bond ETFs, REITs, InvITs                                            | 12 months                   |
-| Other Assets    | Real estate, Gold, Unlisted shares, Gold mutual funds, Debt mutual fund units bought on or before March 31, 2023, Foreign equity funds | 24 months                   |
+| **Category**       | **Assets Included**                                                                                                     | **Holding Period for LTCG** |
+|--------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Listed Assets      | Listed stocks, Listed bonds, Equity ETFs, Gold ETFs, Bond ETFs, REITs, InvITs, MFs                                           | 12 months                   |
+| Unlisted Assets    | Real estate, Gold, Unlisted shares                                                                                           | 24 months                   |
 
 ### Conclusion: 📊
 
-The government's approach to asset taxation is witnessing a transformative shift, moving away from the traditional 'risk' philosophy. The new strategy focuses on creating a simplified taxation structure. However, these changes raise several questions on taxation based on the 'risk' philosophy and their potential impact on market dynamics. The increased tax rate on high-risk assets could deter investors, potentially stifling market dynamism and innovation.
+The government's approach to asset taxation is witnessing a transformative shift, moving away from the traditional 'risk' philosophy. The new strategy focuses on creating a simplified taxation structure. However, these changes raise several questions about taxation based on the 'risk' philosophy and their potential impact on market dynamics. The increased tax rate on high-risk assets could deter investors, potentially stifling market dynamism and innovation.
 
 Increased Tax Burden on High-Risk Assets: While the intent is to simplify, the increased tax rate on high-risk assets could deter investors, potentially stifling market dynamism and innovation. This potential impact is a cause for concern.
-Markets.
