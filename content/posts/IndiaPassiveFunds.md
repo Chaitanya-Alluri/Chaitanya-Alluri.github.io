@@ -15,23 +15,23 @@ Are you an Indian investor interested in passive funds or ETFs? Great news! The 
 
 India Passive Funds provides detailed information on over 430 index funds, covering a broad spectrum of categories. Many investors might think of index funds as just Nifty 50, but there is so much more to explore! Here's a breakdown of the different types of indices you can find:
 
-1. **Broad-Based Indices**: Nifty 50, large cap, small cap, etc. 📊
-2. **Sectoral Indices**: Nifty IT, Nifty Pharma, Nifty Auto, etc. 🏭
-3. **Thematic Indices**: Nifty CPSE, Nifty Energy, etc. 🔋
-4. **Strategy Indices**: Nifty 100 Equal Weight, Nifty 50 Value 30, etc. 💼
+1. **Broad-Based Indices**: Nifty 50, large cap, small cap, etc. 
+2. **Sectoral Indices**: Nifty IT, Nifty Pharma, Nifty Auto, etc. 
+3. **Thematic Indices**: Nifty CPSE, Nifty Energy, etc. 
+4. **Strategy Indices**: Nifty 100 Equal Weight, Nifty 50 Value 30, etc. 
 
 ### Key Features of the Portal 🛠️
 
 The portal offers a wealth of information for each ETF or fund, making it easier for investors to make informed decisions. Key features include:
 
-- **Daily NAV** (Net Asset Value) 📅
-- **TER** (Total Expense Ratio) 💵
-- **AUM** (Assets Under Management) 📈
-- **Tracking Difference**: The difference between the fund's performance and the index 📉
-- **CAGR**: Based on different time frames (months and years) 📆
-- **Fund Holdings**: Detailed list of securities in the fund 📜
-- **Comparison Tool**: Compare similar funds and decide on the best AMC (Asset Management Company) for your needs 🔍
-- **White Papers**: In-depth analysis of the index 📑
+- **Daily NAV** (Net Asset Value) 
+- **TER** (Total Expense Ratio) 
+- **AUM** (Assets Under Management) 
+- **Tracking Difference**: The difference between the fund's performance and the index 
+- **CAGR**: Based on different time frames (months and years) 
+- **Fund Holdings**: Detailed list of securities in the fund 
+- **Comparison Tool**: Compare similar funds and decide on the best AMC (Asset Management Company) for your needs 
+- **White Papers**: In-depth analysis of the index 
 
 ### Handy Tools for Investors 🧰
 
