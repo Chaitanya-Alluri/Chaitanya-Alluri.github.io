@@ -45,7 +45,7 @@ The portal offers a wealth of information for each ETF or fund, making it easier
 
 India Passive Funds is a comprehensive and user-friendly portal that offers Indian investors all the tools they need to explore the diverse world of passive funds and ETFs. Whether you're a seasoned investor or just starting out, this website is a must-visit for anyone looking to make informed investment decisions.
 
-Explore the platform today and take the first step towards diversifying your portfolio! 🚀
+Explore the platform today  🚀
 
 ---
 
