@@ -1,11 +1,11 @@
 +++
-title = 'Budget 2024: No More Indexation for Gold and Real Estate - A Game Changer💰🏠?'
+title = 'Budget 2024: No More Indexation for Gold and Real Estate - A Game Changer🏠?'
 date = 2024-07-23T19:56:32+05:30
 draft = false
 tags = ["#Budget2024", "#TaxChanges", "#RealEstateTax", "#CapitalGains"]
 +++
 
-## New Long-Term Capital Gains Tax Rules for Real Estate and Gold: 2024 and Beyond 🏠💰
+## New Long-Term Capital Gains Tax Rules for Real Estate and Gold: 2024 and Beyond 🏠
 
 Imagine you bought or inherited gold or real estate more than 30 years ago. If you're planning to sell it, prepare for a significant tax hit due to changes introduced in Budget 2024. Let's dive into this new tax regime's details and implications.
 
@@ -20,7 +20,7 @@ You can download the budget using the following link: [India Budget](https://www
 **Post-July 23, 2024:** According to the new tax structure, indexation benefits will no longer be available for any asset class. If you hold an ancestral house or gold and decide to sell, you should be ready to write a sizable cheque to the Government of India. Consider it a new, unofficial 🏛️ Indirect Inheritance Tax.
 
 
-### Scenario: Property Investment in 2001 🏡💰
+### Scenario: Property Investment in 2001 🏡
 
 **Taxation with Indexation:**
 

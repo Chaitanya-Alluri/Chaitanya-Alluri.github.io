@@ -1,5 +1,5 @@
 +++
-title = 'Economic Survey Report: Why Should You Care? 📝📊'
+title = 'Economic Survey Report: Why Should You Care? 📝'
 date = 2024-07-22T19:56:32+05:30
 draft = false
 tags = ["#EconomicSurvey2024", "#IndiaBudget", "#EconomicInsights"]
@@ -24,7 +24,7 @@ The report is publicly available and can be downloaded in parts. Get your copy h
 
 ---
 
-# Highlights from the Economic Survey 2023-24 📈
+# Highlights from the Economic Survey 2023-24 
 
 ## 1. State of the Economy 🌟
 

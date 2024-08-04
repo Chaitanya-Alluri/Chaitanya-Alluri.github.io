@@ -9,7 +9,7 @@ tags = ["#BookReview", "#ChecklistManifesto", "#AtulGawande", "#Productivity", "
 ![image](Book.jpg)
 
 
-### Checklist Manifesto 📝: A Quick ⏩📖
+### Checklist Manifesto: A Quick ⏩📖
 
 #### 🌟 Who Should Read This Book?
 
