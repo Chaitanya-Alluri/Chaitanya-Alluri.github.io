@@ -1,5 +1,5 @@
 +++
-title = '🚀 One-stop Portal for Passive Funds in India by NSE '
+title = 'One-stop Portal for Passive Funds in India by NSE 🌐'
 date = 2024-08-03T14:48:00+05:30
 draft = false
 tags = ["#PassiveInvestingIndia", "#ETFsAndIndexFunds", "#IndiaPassiveFunds"]
