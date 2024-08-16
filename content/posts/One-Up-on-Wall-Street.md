@@ -6,6 +6,9 @@ tags = ["#BookReview", "#OneUpOnWallStreet", "#PeterLynch", "#Investing", "#Fina
 +++
 
 
+![image](Oneupwallstreet.jpg)
+
+
 ### One Up On Wall Street: A Quick ⏩📖
 
 #### 🌟 Who Should Read This Book?
