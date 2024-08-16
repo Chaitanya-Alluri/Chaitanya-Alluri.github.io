@@ -6,7 +6,7 @@ tags = ["#BookReview", "#OneUpOnWallStreet", "#PeterLynch", "#Investing", "#Fina
 +++
 
 
-![image](Oneupwallstreet.jpg)
+![image](One-up-on-WallStreet.jpg)
 
 
 ### One Up On Wall Street: A Quick ⏩📖
