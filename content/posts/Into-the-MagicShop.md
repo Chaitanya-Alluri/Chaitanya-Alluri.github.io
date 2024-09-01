@@ -1,5 +1,5 @@
 +++
-Title = "Book Review: Into the Magic Shop* by Dr. James Doty 📚"  
+Title = "Book Review: Into the Magic Shop by Dr. James Doty 📚"  
 Date = 2024-09-01T13:30:00+05:30  
 Draft = false  
 Tags = ["#BookReview", "#IntoTheMagicShop", "#Inspiration", "#Transformation", "#Mindfulness"]
