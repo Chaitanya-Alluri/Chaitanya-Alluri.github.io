@@ -5,7 +5,7 @@ Draft = false
 Tags = ["#BookReview", "#IntoTheMagicShop", "#Inspiration", "#Transformation", "#Mindfulness"]
 +++
 
-![image](IntoTheMagicShop.jpg)
+![image](Into_The_Magicshop.jpg)
 
 ### *Into the Magic Shop*: A Quick ⏩📖
 
