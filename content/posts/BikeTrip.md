@@ -30,8 +30,6 @@ The route is only accessible for three to four months a year, often cut off by s
 
 ![image](season.jpg)
 
-
-
 ### **🗓️ Day 1: Travel to Manali & Prep (08.09.2018)**
 
 The only way to reach Manali is by road. 🚐 We took a flight to Delhi, then an overnight bus to Manali. After arriving, we went to the local market to collect our bikes and permits. 🛂 It’s important to arrange your permits in advance as NGT allows only 1,200 vehicles per day to protect the glaciers.
@@ -138,8 +136,6 @@ Some highlights of Project Himank, which maintains these incredible roads:
 
 Approximately 80% of our journey was on well-maintained roads 🚧, thanks to the efforts of the BRO. While there were some challenging sections due to landslides and avalanches, the BRO works tirelessly, 365 days a year, to keep these roads open and safe for travelers. They do an amazing job! 👷‍♂️
 
-
-
 ### 🏍️ Bikes and Permits
 
 ![image](bikes_permits.jpg)
@@ -149,7 +145,6 @@ Make sure to secure all necessary permits when renting bikes, as there are multi
 - **Royal Enfield Classic**: ₹1200/day
 
 ![image](checkposts.jpg)
-
 
 
 ### 🍲 Food Stops
@@ -171,7 +166,6 @@ You can also try local delicacies like Momos, Chopsuey, and the famous Kahwa tea
 ### 🤝 Hospitality and People
 
 The hospitality we experienced from the local people was truly heartwarming. They treat you like family, offering the best food and care 🏡. Their generosity and kindness towards tourists make the journey even more special.
-
 
 
 ### 🏨 Hotels and Stays
