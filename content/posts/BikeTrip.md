@@ -29,6 +29,8 @@ For this trip, we had four motorbikes shared among six people: two Royal Enfield
 
 ### ⏳ Best Season to Ride
 
+![Our Bikes](season.jpg)
+
 The Manali-Leh highway opens for only three to four months a year, often closed due to heavy snowfall and landslides. The sweet spot for riding is between July and September. We chose to go at the tail end of the season to dodge the crowds and snag better deals on hotels and bike rentals. 🏨
 
 ---
@@ -58,6 +60,8 @@ Following the scenic Chenab River, we skipped lunch and arrived in Jispa by 6:30
 We left early, tackling the Baralacha La pass at 4,890 meters. A quick stop at Sarchu for lunch was a welcome break before tackling the rough roads to Pang. The Gata Loops were tough, but the stunning scenery compensated for the effort. By 6:00 PM, we reached Pang, tired but eager for the next leg of the trip. The night sky here is a photographer’s dream—perfect for capturing star trails. 🌌
 
 ![Day 3 Views](day3_1.jpg)
+![Day 3 Views](day3_2.jpg)
+![Day 3 Views](day3_3.jpg)
 
 ---
 
@@ -66,7 +70,7 @@ We left early, tackling the Baralacha La pass at 4,890 meters. A quick stop at S
 The road to Leh was a smooth ride compared to the previous days. Passing through Tanglang La, the world’s second-highest motorable pass, was a highlight. We reached Leh by 3:00 PM and spent the rest of the day exploring the local market. 🛒
 
 ![Day 4 Adventure](day4_1.jpg)
-
+![Day 4 Adventure](day4_2.jpg)
 ---
 
 ### 🗺️ Day 5: Exploring Leh
@@ -74,6 +78,7 @@ The road to Leh was a smooth ride compared to the previous days. Passing through
 Leh offers a lot for travelers, and we made the most of our time. After securing permits for Nubra Valley and Pangong Tso, we visited the confluence of the Indus and Zanskar Rivers and the famous Shanti Stupa. 🏞️
 
 ![Exploring Leh](day5_1.jpg)
+![Exploring Leh](day5_2.jpg)
 
 ---
 
@@ -82,6 +87,7 @@ Leh offers a lot for travelers, and we made the most of our time. After securing
 We set off for Nubra Valley, crossing Khardung La, the highest motorable pass in the world at 5,359 meters. Descending into Nubra, we visited Diskit Monastery and marveled at the sand dunes of Hunder, home to the rare double-humped camels. 🐫
 
 ![Nubra Valley](day6_1.jpg)
+![Nubra Valley](day6_2.jpg)
 
 ---
 
@@ -90,6 +96,7 @@ We set off for Nubra Valley, crossing Khardung La, the highest motorable pass in
 We left early, tackling Chang La, the coldest pass on our trip. Despite the challenging conditions, the pristine beauty of Pangong Tso left us speechless. We paused to take in the breathtaking views before heading back to Leh for a final farewell dinner.
 
 ![Pangong Tso](day7_1.jpg)
+![Pangong Tso](day7_2.jpg)
 
 ---
 
@@ -98,6 +105,7 @@ We left early, tackling Chang La, the coldest pass on our trip. Despite the chal
 With heavy hearts, we bid farewell to Leh the next morning, flying back home with memories of one of the most unforgettable trips of our lives. 🛫
 
 ![Farewell](day8_1.jpg)
+![Farewell](day8_2.jpg)
 
 ---
 
@@ -110,7 +118,10 @@ High altitudes come with risks like Acute Mountain Sickness (AMS), so be sure to
 ### 🛣️ Roads and the BRO
 
 Hats off to the Border Roads Organization (BRO), who maintain these treacherous mountain roads. 🚧 About 80% of our journey was on well-maintained roads, despite occasional challenges like landslides. The BRO works around the clock to keep these routes accessible.
-
+![Himank](Route.jpg)
+![Himank](himank_1.jpg)
+![Himank](himank_2.jpg)
+![Himank](himank_3.jpg)
 ---
 
 ### 🏍️ Bikes and Permits
@@ -118,13 +129,15 @@ Hats off to the Border Roads Organization (BRO), who maintain these treacherous 
 Make sure to book your bikes and permits in advance to avoid any hiccups. We rented our Royal Enfield Himalayans for ₹1500/day and the Classics for ₹1200/day. Permits are crucial as you’ll pass through numerous checkpoints along the way.
 
 ![Permits](bikes_permits.jpg)
+![checkposts](checkposts.jpg)
+
 
 ---
 
 ### 🍲 Food Stops and Local Delicacies
 
 The food was a delightful part of our trip. From the **Rendezvous Cafe** in Leh to **Chopsticks** in Manali, we enjoyed every meal. Don't miss out on local treats like momos, chopsuey, and the warming Kahwa tea. ☕
-
+![Food](food.jpg)
 ---
 
 ### 🤝 The People & Hospitality
