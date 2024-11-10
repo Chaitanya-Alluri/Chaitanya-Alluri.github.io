@@ -1,9 +1,8 @@
-```markdown
 +++
 title = "The Science of Happiness 😊"
 date = 2024-11-10T10:00:00+05:30
 draft = false
-tags = ["#StayConnected", "#MindfulnessMatters", "#ChooseCompassion"]
+tags = ["#StayConnected", "#MindfulnessMatters", "#ChooseCompassion", "#Altruism"]
 +++
 
 # The Science of Happiness: How Social Connections and Mindfulness Lead to a Fulfilled Life 
@@ -60,5 +59,3 @@ Happiness is not a destination but a journey that unfolds in the present moment.
 
 ---
 
-#StayConnected #MindfulnessMatters #ChooseCompassion #LiveInTheNow #Altruism
-```
