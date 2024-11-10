@@ -37,7 +37,7 @@ Isolation and loneliness have been found to increase the risk of early disease a
 
 Being mindful—fully engaging with the present moment—is a powerful antidote to the stresses of modern life. While the present inevitably includes joys and disappointments, it's essential to experience these emotions without carrying them as burdens into the future 🎈.
 
-Siddhartha Gautama, better known as the Buddha, taught that attachment to desires and aversions leads to suffering. By embracing the now and accepting life's impermanence, we can cultivate inner peace 🕊️. Hermann Hesse beautifully captures this philosophy in *Siddhartha*, which chronicles a man's spiritual journey towards enlightenment.
+Siddhartha Gautama, better known as the Buddha, taught that attachment to desires and aversions leads to suffering. By embracing the now and accepting life's impermanence, we can cultivate inner peace 🕊️. Nobel laureate, Hermann Hesse beautifully captures this philosophy in *Siddhartha*, which chronicles a man's spiritual journey towards enlightenment.
 
 ## Embracing Community and Nature 🌳
 
