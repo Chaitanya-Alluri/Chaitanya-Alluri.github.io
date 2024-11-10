@@ -5,7 +5,7 @@ draft = false
 tags = ["#StayConnected", "#MindfulnessMatters", "#ChooseCompassion", "#Altruism"]
 +++
 
-In today's digital world, where connections are just a tap away, it's ironic that feelings of loneliness, anxiety, and depression are escalating globally, especially in Western societies . As we chase success and personal fulfilment, we often overlook the fundamental elements contributing to genuine happiness. What if the key to a joyful life isn't in material wealth or accolades but in the simplicity of living in the present and fostering meaningful relationships? 🤔
+In today's digital world, where connections are just a tap away, it's ironic that feelings of loneliness, anxiety, and depression are escalating globally, especially in Western societies . As we chase success and personal fulfilment, we often overlook the fundamental elements contributing to genuine happiness. What if the key to a joyful life isn't in material wealth or accolades but in the simplicity of living in the present and fostering meaningful relationships? 
 
 ## Understanding the Three Stages of Mind 🧠
 
