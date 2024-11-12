@@ -23,7 +23,7 @@ To get started, you’ll need a subscription to Moneycontrol’s **PRO** service
 - **Step 1**: Visit the [Moneycontrol website](https://www.moneycontrol.com).
 - **Step 2**: Navigate to the **“Markets”** tab in the menu.
 - **Step 3**: Select the **“Big Shark Portfolio”** option.
-- **DirectLink**: [BigSharkPortfolio Page] (https://www.moneycontrol.com/india-investors-portfolio/)
+- **DirectLink**: [BigSharkPortfolio Page](https://www.moneycontrol.com/india-investors-portfolio/)
 
 
 ![image](BigShark.jpg)
