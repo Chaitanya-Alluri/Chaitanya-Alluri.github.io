@@ -49,9 +49,9 @@ The data presented can be a goldmine of information for savvy investors. Here ar
 
 Suppose a prominent investor has been steadily buying shares in an under-the-radar pharmaceutical company over the last quarter. You could investigate the fundamentals of this company to assess whether it aligns with your own investment strategy. If it appears sound, you might consider investing early in the stock, potentially capitalizing on the big investor’s insight.
 
-### 🚀 The Advantage of a PRO Subscription
+### 🚀 PRO Subscription
 
-While some information on the Big Shark Portfolio page is available for free, a Moneycontrol **PRO** subscription is essential for comprehensive insights. This subscription unlocks in-depth data on individual holdings, historical acquisition patterns, and more detailed insights that can significantly enhance your investment research.
+Note: While some information on the Big Shark Portfolio page is available for free, a Moneycontrol **PRO** subscription is essential for comprehensive insights. 
 
 ### 💡 Final Thoughts
 
