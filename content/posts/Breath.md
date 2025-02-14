@@ -67,6 +67,6 @@ You’ll walk away with tools to rewire your breathing habits and, in turn, tran
 
 **Must read for everyone on the most overlooked aspect of Health**
 
-James Nestor’s _Breath_ is life-changing. Whether you’re an athlete or an AI programmer, this book will make you rethink every Breath.
+James Nestor’s _Breath_ is life-changing. Whether you’re a CEO, athlete, or AI programmer, this book will rewire how you breathe — and live.
 
 **Rating: ⭐⭐⭐⭐⭐ (5/5)**
