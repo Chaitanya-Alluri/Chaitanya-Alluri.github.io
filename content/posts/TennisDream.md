@@ -54,13 +54,6 @@ Reflecting on this journey - from that eager **12-year-old** to today - I'm fill
 These trophies represent more than wins; they prove dreams can become reality through persistence and effort ✨
 
 ---
-
-📸 *Memorable moments from this chapter:*  
-![First Tournament Win](1stphoto.jpg)
-![Doubles Celebration](2ndphoto.jpg)
-![Singals Final Match](3rdphoto.jpg)
-![Hyderabad Open Podium](4thphoto.jpg)
-
 📸 *Here are a few memorable snapshots from this happ'y'ness chapter of my life:*  
 ![image]1stphoto.jpg
 ![image]2ndphoto.jpg
