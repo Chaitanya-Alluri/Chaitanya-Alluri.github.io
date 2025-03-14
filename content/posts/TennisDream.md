@@ -55,10 +55,10 @@ These trophies represent more than wins; they prove dreams can become reality th
 
 ---
 📸 *Here are a few memorable snapshots from this happ'y'ness chapter of my life:*  
-![image]1stphoto.jpg
-![image]2ndphoto.jpg
-![image]3rdphoto.jpg
-![image]4rthphoto.jpg
+![First Tournament Win](1stphoto.jpg)
+![Doubles Celebration](2ndphoto.jpg)
+![Singals Final Match](3rdphoto.jpg)
+![Hyderabad Open Podium](4thphoto.jpg)
 
 
 
