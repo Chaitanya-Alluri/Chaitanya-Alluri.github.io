@@ -58,7 +58,7 @@ These trophies represent more than wins; they prove dreams can become reality th
 ![First Tournament Win](1stphoto.jpg)
 ![Doubles Celebration](2ndphoto.jpg)
 ![Singals Final Match](3rdphoto.jpg)
-![Hyderabad Open Podium](4thphoto.jpg)
+![Paper](4rthphoto.jpg)
 
 
 
