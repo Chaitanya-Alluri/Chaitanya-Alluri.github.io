@@ -5,11 +5,10 @@ draft = false
 tags = ["tennis", "personal", "achievement"]
 +++
 
-## A Dream Realized: 25 Years in the Making 🎾🏆
 
 Last week marked an extraordinary moment in my life. After 25 years of unwavering dedication to tennis - a passion ignited on a modest court during 8th grade - I finally stood victorious, holding a trophy that symbolized far more than just a win. It was the realization of a lifelong dream and a moment of profound fulfillment.
 
-This victory was not mine alone; it was equally a dream fulfilled for my mother, whose unwavering support, encouragement, and sacrifices shaped my journey. Her relentless belief in me, through every challenge and triumph, made this achievement all the more meaningful.
+This victory was not mine alone; it was equally a dream fulfilled for my mother, whose unwavering support, encouragement, and sacrifices shaped my journey. Her relentless belief in me through every challenge and triumph made this achievement all the more meaningful.
 
 ---
 
@@ -17,7 +16,7 @@ This victory was not mine alone; it was equally a dream fulfilled for my mother,
 
 I first discovered tennis in **8th grade** at age **12**. The thrill of the game, its strategy, and the physical challenge captivated me instantly. That's when I set my sights on winning a major tennis trophy 🏆. I participated in **two or three tournaments**, but progress seemed elusive.
 
-As academic pressures mounted during **10th grade**, I made the difficult decision to step away from tennis. What I thought would be a short pause stretched into years, though the dream never faded 💭.
+As academic pressures mounted during **10th grade**, I had to step away from tennis. What I thought would be a short pause stretched into years, though the dream never faded 💭.
 
 ---
 
@@ -31,7 +30,7 @@ The return was humbling - a time of readjustment, shaking off rust, and rediscov
 
 ### Building Momentum 📈  
 
-Over the past two years, I committed fully to the sport 🧠💪. Competing in **four to five tournaments annually**, I began seeing results. Each match added experience and confidence, inching closer to my long-cherished goal 🌟.
+Over the past two years, I committed fully to the sport 🧠💪. Competing in **four to five tournaments annually**, I began seeing results. Each match added experience and confidence, inching me closer to my long-cherished goal 🌟.
 
 ---
 
