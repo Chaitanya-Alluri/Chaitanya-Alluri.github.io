@@ -7,7 +7,7 @@ tags = ["investing", "momentum", "personal", "achievement"]
 
 
 
-**Three years ago**, I dipped my toes into the exciting world of **momentum investing** 📈. It began as a casual exploration—playing with strategies on Smallcase and testing index funds like the Nifty 200 Momentum 30. I was hooked, fascinated by the idea that stocks on an upward swing could lead me to profits.I always wondered how people made these statergies.
+**Three years ago**, I came across the exciting world of **momentum investing** 📈. It began as a casual exploration—playing with strategies on Smallcase and testing index funds like the Nifty 200 Momentum 30. I was hooked, fascinated by the idea that stocks on an upward swing could lead me to profits.I always wondered how people made these statergies.
 
 ---
 
