@@ -20,7 +20,7 @@ In **October-November 2023**, everything shifted. I discovered *Quantitative Mom
 Teaming up with my friend **Masquer Sajjad**, we embarked on creating something unique. After:  
 - Countless late-night revisions 🌙,  
 - Endless tweaks to parameters,  
-- And caffeine-fueled discussions ☕,  
+- And a lot of discussions ☕,  
 
 We finalized our strategy by **February 2024**. Backtests and paper trades on a **15-stock portfolio** (from the Nifty 150 universe) showed *promising results*—almost too good to believe. But paper profits ≠ real markets.  
 
