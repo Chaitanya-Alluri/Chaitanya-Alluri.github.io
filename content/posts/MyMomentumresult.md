@@ -7,17 +7,17 @@ tags = ["investing", "momentum", "personal", "achievement"]
 
 
 
-**Three years ago**, I dipped my toes into the exciting world of **momentum investing** 📈. It began as a casual exploration—playing with strategies on Smallcase and testing index funds like the Nifty 200 Momentum 30. I was hooked, fascinated by the idea that stocks on an upward swing could lead me to profits.  
+**Three years ago**, I dipped my toes into the exciting world of **momentum investing** 📈. It began as a casual exploration—playing with strategies on Smallcase and testing index funds like the Nifty 200 Momentum 30. I was hooked, fascinated by the idea that stocks on an upward swing could lead me to profits.I always wondered how people made these statergies.
 
 ---
 
 ### 🔥 **The Spark That Changed Everything**  
-In **October-November 2023**, everything shifted. I discovered *Quantitative Momentum: A Practitioner’s Guide to Building a Momentum-Based Stock Selection System* by Wesley R. Gray and Jack R. Vogel[^1]. That book lit a fire in me 💡, pulling me into a deep dive of white papers from Alpha Architect[^2] and Rajan Raju[^3]. Each resource stoked my curiosity and sharpened my focus.  
+In **October-November 2023**, everything changed , I came across this book call *Quantitative Momentum: A Practitioner’s Guide to Building a Momentum-Based Stock Selection System* by Wesley R. Gray and Jack R. Vogel[^1]. That book lit a fire in me 💡, pulling me into a deep dive of white papers from Alpha Architect[^2] and Rajan Raju[^3]. Each resource stoked my curiosity and sharpened my focus.  
 
 ---
 
 ### 🛠️ **Building the Strategy**  
-Teaming up with my friend **Masquer Sajjad**, we embarked on creating something unique. After:  
+Teaming up with my techie friend **Masquer Shajjad**, we embarked on creating something unique. After:  
 - Countless revisions,  
 - Endless tweaks to parameters,  
 - And a lot backtests and code changes,  
@@ -32,14 +32,14 @@ On **April 1, 2024**, we pooled our money and launched the strategy live for a *
 ---
 
 ### 🌬️ **Smooth Sailing… Until the Storm**  
-The first few months were a **bullish breeze**. We rode the wave with confidence. But the real test? Surviving a **market downturn**.  
+The first few months were a **bullish breeze** and felt it too good to be true.  We rode the wave with confidence. But the real test? Surviving a **market downturn**.  
 
-By **late October**, the tide began to turn. By **February**, it felt like wading through quicksand 🥳.  
+By **late October**, the tide began to turn with bearish phase. This was the time we exited few positions and moved to cash for a while.  By **February**, it felt like wading through quicksand.  
 
 ---
 
 ### 🌈 **The Silver Lining**  
-**March** brought a historic rebound—a much-needed breather. Looking back, I’m grateful for:  
+**March** brought a decend rebound—a much-needed breather. with a decent year close. Looking back, I’m grateful for:  
 - The **highs** ☀️ (validating our system),  
 - And the **lows** ⛈️ (stress-testing our resolve).  
 
