@@ -7,11 +7,43 @@ tags = ["investing", "momentum", "personal", "achievement"]
 
 
 
-Three years ago, I dipped my toes into the exciting world of **momentum investing** 📈. It began as a casual exploration—playing with strategies on Smallcase and testing index funds like the Nifty 200 Momentum 30. I was hooked, fascinated by the idea that stocks on an upward swing could lead me to profits. Then, in October-November 2023, everything changed 🔥. I discovered *Quantitative Momentum: A Practitioner’s Guide to Building a Momentum-Based Stock Selection System* by Wesley R. Gray and Jack R. Vogel[^1]. That book lit a spark 💡, pulling me into a deep dive of white papers from Alpha Architect[^2] and Rajan Raju[^3], each one stoking my curiosity and enthusiasm.
+**Three years ago**, I dipped my toes into the exciting world of **momentum investing** 📈. It began as a casual exploration—playing with strategies on Smallcase and testing index funds like the Nifty 200 Momentum 30. I was hooked, fascinated by the idea that stocks on an upward swing could lead me to profits.  
 
-Together with my friend Masquer Sajjad, we decided to create something unique. After countless revisions 🌙, endless tweaks, and plenty of discussions ☕, we finalized our strategy by February 2024. I ran backtests and paper trades, settling on a portfolio of 15 stocks from the Nifty 150 universe. The results were promising—almost too good to believe. But paper profits are one thing; the real market is a different game 🎲. So, on **April 1, 2024**, we took the plunge, pooling our money to launch our strategy live for a one-year trial.
+---
 
-The first few months were smooth sailing 🌬️. The market was bullish, and we rode the wave with confidence. But I knew the real challenge was lurking—how would we fare when the market turned? That test came in late October. By February, the downturn hit hard, and it felt like wading through quicksand 🥳. Thankfully, March brought a much-needed breather—a historically strong month that didn’t disappoint. Looking back, I’m glad we faced both highs ☀️ and lows ⛈️; it made our system stronger.
+### 🔥 **The Spark That Changed Everything**  
+In **October-November 2023**, everything shifted. I discovered *Quantitative Momentum: A Practitioner’s Guide to Building a Momentum-Based Stock Selection System* by Wesley R. Gray and Jack R. Vogel[^1]. That book lit a fire in me 💡, pulling me into a deep dive of white papers from Alpha Architect[^2] and Rajan Raju[^3]. Each resource stoked my curiosity and sharpened my focus.  
+
+---
+
+### 🛠️ **Building the Strategy**  
+Teaming up with my friend **Masquer Sajjad**, we embarked on creating something unique. After:  
+- Countless late-night revisions 🌙,  
+- Endless tweaks to parameters,  
+- And caffeine-fueled discussions ☕,  
+
+We finalized our strategy by **February 2024**. Backtests and paper trades on a **15-stock portfolio** (from the Nifty 150 universe) showed *promising results*—almost too good to believe. But paper profits ≠ real markets.  
+
+---
+
+### 🎲 **Taking the Plunge**  
+On **April 1, 2024**, we pooled our money and launched the strategy live for a **one-year trial**.  
+
+---
+
+### 🌬️ **Smooth Sailing… Until the Storm**  
+The first few months were a **bullish breeze**. We rode the wave with confidence. But the real test? Surviving a **market downturn**.  
+
+By **late October**, the tide began to turn. By **February**, it felt like wading through quicksand 🥳.  
+
+---
+
+### 🌈 **The Silver Lining**  
+**March** brought a historic rebound—a much-needed breather. Looking back, I’m grateful for:  
+- The **highs** ☀️ (validating our system),  
+- And the **lows** ⛈️ (stress-testing our resolve).  
+
+Both made us stronger.  
 
 ---
 
