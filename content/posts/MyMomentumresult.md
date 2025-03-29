@@ -30,7 +30,7 @@ It sounds straightforward, but the execution? That was a mental marathon 🧠.
 
 ## The Emotional Rollercoaster 🎢
 
-Warren Buffett once said, *“Emotional stability always beats intelligence in investing.”* This year, I lived that truth. Managing my emotions was the toughest part. I’d get ahead of myself—jumping into trades too soon, chasing hunches instead of sticking to the plan. Those mistakes hurt 💔. Without them, our returns could’ve hit 24%. But each slip-up taught me patience, discipline, and the value of waiting when I wanted to leap.
+Warren Buffett once said, *“Emotional stability always beats intelligence in investing.”* This year, I lived that truth. Managing my emotions was the toughest part. I’d get ahead of myself—jumping into trades too soon, chasing hunches instead of sticking to the plan. Those mistakes hurt 💔. Without them, our returns could’ve been much more. But each slip-up taught me patience, discipline, and the value of waiting when I wanted to leap.
 
 The dips in October and February were brutal. Seeing the portfolio shrink felt like a personal blow 👊. Yet, following the system—exiting on time, holding off until the right moment—kept us in the game. Thriving in a bull market is easy; surviving the bears 🐻 is where you prove yourself.
 
@@ -61,4 +61,4 @@ As I write this, I see it’s not the end—it’s a launchpad. I’m ready to t
 
 [^1]: Gray, W. R., & Vogel, J. R. (2016). *Quantitative Momentum: A Practitioner’s Guide to Building a Momentum-Based Stock Selection System*. Wiley.
 [^2]: Alpha Architect. (n.d.). *Momentum Investing White Papers*. Retrieved from [Alpha Architect](https://alphaarchitect.com/).
-[^3]: Raju, R. (n.d.). *White Papers on Momentum Investing*. (Assuming a publication source or link would be provided).
+[^3]: Raju, R. (n.d.). *White Papers on Momentum Investing*.
