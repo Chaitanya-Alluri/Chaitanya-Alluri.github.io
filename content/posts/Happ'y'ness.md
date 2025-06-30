@@ -25,7 +25,7 @@ Research consistently shows that social interaction is beneficial and essential 
 
 The Harvard Study of Adult Development, one of the longest-running studies on happiness, found that **close relationships** are the most significant factor in keeping people happy and healthy throughout their lives—more so than wealth or fame 💎. This underscores the profound impact that personal relationships have on our overall well-being.
 
-In The Choice, Edith Eger who is a Holocaust survivor , Happines is not dependent on circumstances but on the choices we make. We can choose to stay trapped in our past, fearing or regretting what was, or be anxious about the future, which is uncertain. But true freedom—and joy—comes from choosing to live fully in the present, where healing and possibility reside. By choosing the "now", we stop being victims of what happened and start becoming the authors of what happens next. 🌟.
+
 
 ## The Epidemic of Loneliness 😔
 
@@ -38,6 +38,8 @@ Isolation and loneliness have been found to increase the risk of early disease a
 Being mindful—fully engaging with the present moment—is a powerful antidote to the stresses of modern life. While the present inevitably includes joys and disappointments, it's essential to experience these emotions without carrying them as burdens into the future 🎈.
 
 Siddhartha Gautama, better known as the Buddha, taught that attachment to desires and aversions leads to suffering. By embracing the now and accepting life's impermanence, we can cultivate inner peace 🕊️. Nobel laureate, Hermann Hesse beautifully captures this philosophy in *Siddhartha*, which chronicles a man's spiritual journey towards enlightenment.
+
+In The Choice, Edith Eger who is a Holocaust survivor , Happines is not dependent on circumstances but on the choices we make. We can choose to stay trapped in our past, fearing or regretting what was, or be anxious about the future, which is uncertain. But true freedom—and joy—comes from choosing to live fully in the present, where healing and possibility reside. By choosing the "now", we stop being victims of what happened and start becoming the authors of what happens next. 🌟.
 
 ## Embracing Community and Nature 🌳
 
