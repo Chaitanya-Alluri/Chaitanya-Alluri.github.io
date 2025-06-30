@@ -1,5 +1,5 @@
 +++
-title = "The Science of Happiness 😊"
+title = "The Science of Happiness - My notes 😊"
 date = 2024-11-10T10:00:00+05:30
 draft = false
 tags = ["#StayConnected", "#MindfulnessMatters", "#ChooseCompassion", "#Altruism"]
@@ -25,7 +25,7 @@ Research consistently shows that social interaction is beneficial and essential 
 
 The Harvard Study of Adult Development, one of the longest-running studies on happiness, found that **close relationships** are the most significant factor in keeping people happy and healthy throughout their lives—more so than wealth or fame 💎. This underscores the profound impact that personal relationships have on our overall well-being.
 
-Viktor Frankl's experiences, detailed in *Man's Search for Meaning*, illustrate the power of purpose and connection. As a Holocaust survivor, Frankl found that his desire to reunite with his family and continue his work as a psychologist was critical to his survival and mental resilience during unimaginable hardship 🌟.
+In The Choice, Edith Eger who is a Holocaust survivor , Happines is not dependent on circumstances but on the choices we make. We can choose to stay trapped in our past, fearing or regretting what was, or be anxious about the future, which is uncertain. But true freedom—and joy—comes from choosing to live fully in the present, where healing and possibility reside. By choosing the "now", we stop being victims of what happened and start becoming the authors of what happens next. 🌟.
 
 ## The Epidemic of Loneliness 😔
 
