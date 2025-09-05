@@ -58,7 +58,7 @@ To get from Tsomoriri to Pangong Tso, we opted for the remote and adventurous Ch
 
 We entered the Pangong Tso area via the "backside," which gifted us one of the most scenic drives in the world: a 30-kilometer stretch directly along the lake's shore. Witnessing the constantly shifting colors of Pangong's water—from deep sapphire to turquoise to jade green—was a mesmerizing, almost spiritual experience that will forever be etched in our memories.
 
-![TsoYaya](yayatso.jpg)
+![Yaya](yayatsolake.jpg)
 
 
 ### 🛍️ Day 9: The Final Pass and a Leh Farewell (August 31st)
