@@ -19,11 +19,12 @@ Seven years ago, it was a tale of adrenaline, roaring engines, and a bachelor mo
 After our flight touched down in Leh, the first order of business was a crucial battle against altitude. At 11,500 feet, proper acclimatization isn't just a suggestion; it's the golden rule of Ladakh travel. We checked into our hotel and dedicated the day to rest, allowing our bodies to adjust to the thin, crisp mountain air. This period of calm was essential preparation for the demanding adventure that lay ahead. In the evening, once we felt settled, we took a gentle, exploratory stroll through the Leh market, soaking in the local atmosphere and the palpable energy of this Himalayan town.
 
 ### 🛣️ Day 2: Leh to Kargil - An Unexpected Himalayan Welcome (August 24th)
-Our journey truly began with a classic Himalayan challenge. A landslide at a checkpoint forced an unexpected detour, reminding us early on that nature dictates the itinerary here. The day commenced with a light drizzle, less than ideal for mountain driving, but our collective spirit remained undampened.
+The day commenced with a light drizzle, less than ideal for mountain driving, but our collective spirit remained undampened.Our journey truly began with a classic Himalayan challenge. A landslide at a checkpoint forced an unexpected detour, reminding us early on that nature dictates the itinerary here. 
 
 The revised route unfurled alongside the magnificent Indus River, revealing one of the region's most stunning geological features: vast purple mountain patches dotted with traditional villages. These vibrant hues, created by mineral deposits over millions of years, painted a breathtaking contrast against the sky. For our two biker companions, the day was a grueling test of endurance, as they faced the rain for nearly the entire journey, finding respite only in the final hour. By evening, we arrived in Kargil, the second-largest town in Ladakh and our official gateway to the remote Zanskar Valley.
 
 ![begin](start.jpg)
+
 
 ### 🏔️ Day 3: Kargil to Zanskar - Into the Remote Wilderness (August 25th)
 An early start from Kargil propelled us toward the Zanskar Valley, one of India's most isolated and awe-inspiring regions. Our first official stop was the Suru Valley checkpoint to complete the necessary documentation for this restricted area. The day's undisputed highlight was witnessing the magnificent Ptakchik Glacier, also known as the Drang Drung Glacier, under a dramatic spell of snowfall. This colossal river of ice, one of the largest in the Zanskar region, feeds several vital rivers and is a humbling sight to behold.
