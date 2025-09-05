@@ -1,5 +1,5 @@
 +++
-title = 'Himalayan Family Epic: A 10-Day Journey Through the Zanskar Circuit'
+title = 'Himalayan Family Epic: A 10-Day Journey Through Ladak & Zanskar Circuit'
 date = 2025-09-05T15:40:01+05:30
 draft = false
 tags = ["#Ladakh", "#Travel", "#Adventure", "#Family Trip", "#Himalayas", "#Zanskar"]
