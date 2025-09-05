@@ -11,7 +11,7 @@ Seven years ago, it was a tale of adrenaline, roaring engines, and a bachelor mo
 
 * **Trip Route:** Leh – Kargil – Zanskar Valley – Goboranjan – Sarchu – Tsomoriri – Pangong Tso – Leh
 * **Total Days:** 10 (August 23rd - September 1st, 2025)
-* **The Expedition Group:** 4 families with cousins, joined by 2 brave bikers ready to conquer the terrain.
+* **The Expedition Group:** 4 families with cousins, joined by 2 bikes and a Tempo.
 
 ---
 
@@ -22,6 +22,8 @@ After our flight touched down in Leh, the first order of business was a crucial 
 Our journey truly began with a classic Himalayan challenge. A landslide at a checkpoint forced an unexpected detour, reminding us early on that nature dictates the itinerary here. The day commenced with a light drizzle, less than ideal for mountain driving, but our collective spirit remained undampened.
 
 The revised route unfurled alongside the magnificent Indus River, revealing one of the region's most stunning geological features: vast purple mountain patches dotted with traditional villages. These vibrant hues, created by mineral deposits over millions of years, painted a breathtaking contrast against the sky. For our two biker companions, the day was a grueling test of endurance, as they faced the rain for nearly the entire journey, finding respite only in the final hour. By evening, we arrived in Kargil, the second-largest town in Ladakh and our official gateway to the remote Zanskar Valley.
+
+![begin](start.jpg)
 
 ### 🏔️ Day 3: Kargil to Zanskar - Into the Remote Wilderness (August 25th)
 An early start from Kargil propelled us toward the Zanskar Valley, one of India's most isolated and awe-inspiring regions. Our first official stop was the Suru Valley checkpoint to complete the necessary documentation for this restricted area. The day's undisputed highlight was witnessing the magnificent Ptakchik Glacier, also known as the Drang Drung Glacier, under a dramatic spell of snowfall. This colossal river of ice, one of the largest in the Zanskar region, feeds several vital rivers and is a humbling sight to behold.
@@ -54,6 +56,9 @@ Beyond Pang, the terrain transformed into the vast, otherworldly plains of the C
 To get from Tsomoriri to Pangong Tso, we opted for the remote and adventurous Chusul route. This lesser-traveled path passes the serene Tso Yaya and Mirpal Tso lake while traversing two significant mountain passes. The highlight was ascending **Kaksang La Pass**, which offered breathtaking panoramic views of the Changthang plateau. Navigating off-road sections due to Border Roads Organisation (BRO) construction only added to the thrill.
 
 We entered the Pangong Tso area via the "backside," which gifted us one of the most scenic drives in the world: a 30-kilometer stretch directly along the lake's shore. Witnessing the constantly shifting colors of Pangong's water—from deep sapphire to turquoise to jade green—was a mesmerizing, almost spiritual experience that will forever be etched in our memories.
+
+![TsoYaya](yayatso.jpg)
+
 
 ### 🛍️ Day 9: The Final Pass and a Leh Farewell (August 31st)
 After capturing some final morning photos at Pangong, we began our journey back to Leh. The Himalayas had one last surprise for us. As we approached **Chang La Pass** (17,590 feet), a sudden, intense ten-minute snowfall welcomed us, adding a final dramatic flourish to our crossing of one of the world's highest motorable passes. Safely on the other side, we descended towards the beautiful Shakti village nestled in the valley below. We stopped for lunch and a visit to the iconic **Thiksey Monastery**, whose architecture famously resembles the Potala Palace in Lhasa, before finally reaching our hotel in Leh, completing our epic circuit.
