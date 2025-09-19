@@ -39,6 +39,7 @@ Mother Nature decided to test our patience, blanketing the valley in continuous,
 As the day wore on, we congregated in the hotel's warm, inviting kitchen. Hours flew by as we immersed ourselves in games—*Wolf and Villagers* and *3-card poker* became instant favorites. These simple, indoor activities fostered a powerful sense of camaraderie, bringing our families closer than ever. The snow finally ceased around 8 PM, rekindling our hopes for the journey to Goboranjan. Despite the deviation from our itinerary, we all agreed this unexpected pause allowed us to truly connect with the raw, untamed beauty of Zanskar.
 
 ![valley](padum.jpg)
+
 ### 🏕️ Day 5: Marpa Resort to Goboranjan - A Calculated Risk (August 27th)
 At 6 AM, we awoke to a spectacular sight. The valley was bathed in a golden morning light, with the fresh snow on the surrounding peaks creating a postcard-perfect panorama. This brief 30-minute window of clear weather offered stunning photographic opportunities and a surge of optimism.
 
@@ -49,10 +50,10 @@ What unfolded next was the most adventurous moment of our expedition. Our resour
 ### 🌄 Day 6: Goboranjan to Sarchu - The High Passes' Reward (August 28th)
 Our reward for the previous day's audacity was the best weather of the entire trip—brilliant sunshine and crystal-clear skies. After our bikes and Tempo Traveller finally reached us around noon, we resumed our journey. The drive from Goboranjan to Sarchu via Shinkula Pass and Baralacha Pass was nothing short of spectacular.
 
-
-
 ![goboranjan](gonbo.jpg)
 
+
+![suraj](suraj.jpg)
 **Shinkula Pass** (16,580 feet), connecting Zanskar to Himachal Pradesh, was even more beautiful under its fresh blanket of white powder. After crossing **Baralacha Pass**, we were greeted by the mesmerizing sight of **Suraj Tal** (Suraj Lake), its deep blue waters framed by emerald green meadows and snow-capped peaks. The straight, open roads in this section provided a welcome reprieve and phenomenal photo opportunities, allowing us to absorb the sheer scale of the Himalayan landscape. We settled in for the night at **Red Rock Camp**, located 10 kilometers before Sarchu, a strategic spot offering panoramic views of vast green plains ending in a dramatic valley drop.
 
 ![shinkulapass](shinkula.jpg)
