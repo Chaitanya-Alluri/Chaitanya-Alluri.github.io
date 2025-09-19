@@ -53,10 +53,10 @@ Our reward for the previous day's audacity was the best weather of the entire tr
 ![goboranjan](gonbo.jpg)
 
 
-![suraj](suraj.jpg)
+![surajtal](suraj.jpg)
 **Shinkula Pass** (16,580 feet), connecting Zanskar to Himachal Pradesh, was even more beautiful under its fresh blanket of white powder. After crossing **Baralacha Pass**, we were greeted by the mesmerizing sight of **Suraj Tal** (Suraj Lake), its deep blue waters framed by emerald green meadows and snow-capped peaks. The straight, open roads in this section provided a welcome reprieve and phenomenal photo opportunities, allowing us to absorb the sheer scale of the Himalayan landscape. We settled in for the night at **Red Rock Camp**, located 10 kilometers before Sarchu, a strategic spot offering panoramic views of vast green plains ending in a dramatic valley drop.
 
-![shinkulapass](shinkula.jpg)
+![shinkulapass](shinku.jpg)
 
 ### 🏔️ Day 7: Sarchu to Tsomoriri - A Journey Through Geological Time (August 29th)
 Blessed with another day of glorious sunshine, we set course for Tsomoriri Lake. This leg of the journey took us through some of Ladakh's most fascinating geological landscapes. We navigated the famous **Gata Loops**, a series of 21 hairpin bends that snake up the mountainside. En route to Pang, we discovered natural cone-shaped caves and ancient arch-like rock formations that have miraculously withstood centuries of harsh elements.
