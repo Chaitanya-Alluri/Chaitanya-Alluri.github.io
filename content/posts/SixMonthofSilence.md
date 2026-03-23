@@ -6,7 +6,7 @@ draft = false
 tags = ["#LifeUpdate", "#Tennis", "#BookReview", "#ElonMusk", "#48LawsOfPower", "#GITEX", "#AI", "#Personal"]
 +++
 
-# Back in the Game — Books, Rackets, and a Whole Lot of Life
+### Back in the Game — Books, Rackets, and a Whole Lot of Life
 
 > *"Some chapters don't get written on time — but they still get written."*
 
@@ -18,9 +18,9 @@ It's been **radio silence since September** — no posts, no updates. Just a blo
 
 ---
 
-## ✈️ The Dubai Detour
+## ✈️ The Dubai,Mumbai & Bangalore  Detour
 
-Work pulled me into one of the year's biggest moments — **GITEX Dubai**. Thousands of innovators, startups, and enterprise giants all under one roof, talking about the future like it's already here. I came back with a head full of ideas, a notebook full of scribbles, and a renewed sense of direction.
+Work pulled me into one of the year's biggest moments — **GITEX Dubai**. Thousands of innovators, startups, and enterprise giants all under one roof, talking about the future like it's already here. I came back with a head full of talks, a notebook full of scribbles, and a renewed sense of direction.Busy with travel to Mumbai and Bangalore during these months.
 
 ---
 
