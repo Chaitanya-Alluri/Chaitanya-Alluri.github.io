@@ -6,7 +6,6 @@ draft = false
 tags = ["#LifeUpdate", "#Tennis", "#BookReview", "#ElonMusk", "#48LawsOfPower", "#GITEX", "#AI", "#Personal"]
 +++
 
-### Back in the Game — Books, Rackets, and a Whole Lot of Life
 
 > *"Some chapters don't get written on time — but they still get written."*
 
